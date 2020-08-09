@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:ital,wght@0,300;0,400;1,300;1,400&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    font-family: 'Lato', sans-serif;
+}
+.stu{
+    background-color: burlywood;
+    border-radius: 20px;
+}
+.bbb{
+    background-color: brown;
+    border-radius: 20px;
+}
+.bg{
+    background-color: burlywood;
+    border-radius: 20px;
+}
